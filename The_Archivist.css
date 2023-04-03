@@ -1,0 +1,33 @@
+#MainWindow {
+    background-color: rgb(41, 42, 49);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 12px;
+    font-family: "Calibri";
+}
+
+#btnAddBook {
+    background-color: rgb(25, 26, 29);
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#lbl_StatsArea {
+    background-color: rgb(69, 71, 83);
+    color: rgb(212, 218, 255);
+    font-weight: bold;
+    font-size: 12px;
+    font-family: "Calibri";
+    padding: 10px;
+
+}
+
+#tblArchive {
+    background-color: rgba(41, 42, 49, 0.8);
+}
+
+#btnAddBook:hover {
+    background-color: whitesmoke;
+    color: black;
+}
